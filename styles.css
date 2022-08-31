@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    background-color: hsl(212, 45%, 89%);
+}
+
+.white-background {
+    background-color: white;
+    width: 290px;
+    margin: 200px auto 100px;
+    border-radius: 12px;
+    padding: .9rem;
+}
+
+.qr-img {
+    width: 285px;
+    height: 285px;
+    border-radius: 12px;
+}
+
+h2 {
+    color: hsl(218, 44%, 22%);
+    font-family: "Outfit";
+    margin: 7% 5%;
+    font-size: 20px;
+}
+
+p {
+    font-family: "Outfit";
+    font-size: 15px;
+    margin: auto 5% 9%;
+    color: hsl(220, 15%, 55%);
+}
